@@ -1,2 +1,6 @@
 # hello-world
-A short description
+
+Hello there!
+
+I made a git-hub file! :D
+Cool!
